@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196150408252",
+    "project_id": "aerolineabd-a5c73",
+    "storage_bucket": "aerolineabd-a5c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196150408252:android:b327c45d487698889c7f39",
+        "android_client_info": {
+          "package_name": "com.flutter.aerolinea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196150408252-5l9m1aukpd02okorumrcv3qld3irgvsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADzL-Mn-Se68QZeIaz-g0IgPqHD2v1GJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196150408252-5l9m1aukpd02okorumrcv3qld3irgvsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
